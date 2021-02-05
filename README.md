@@ -1,6 +1,6 @@
 # Roadmap
 
-[] - Instalar styled-components / styled-media-query
+[x] - Instalar styled-components / styled-media-query
 [] - Configurar Prettier
 [] - Configurar ESlint
 [] - Configurar testes
